@@ -100,13 +100,13 @@ Order ID, Order Date, Ship Date, Ship Mode, Customer ID, Segment, Region, Catego
 
 ecomm-analysis/
 
-ecomm_queries.sql/
+[View SQL File](ecomm_queries.sql)
 
-e-commerce_eds.ipynb/
+[Open Notebook](e-commerce_eds.ipynb)
 
-Power BI dashboard file/
+[Open Dashboard](e-commerce analysis dashboard.pbix)
 
-README.md/
+[README.md/](https://github.com/bodademayur02-code/E---Commerce-Sales-Analysis/edit/main/README.md)
 
 ### 9. How to Run
 
