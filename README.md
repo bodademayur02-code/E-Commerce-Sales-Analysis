@@ -100,13 +100,13 @@ Monitor late deliveries and proactively manage customer experience.
 
 ecomm-analysis/
 
-ecomm_queries.sql
+ecomm_queries.sql/
 
-e-commerce_eds.ipynb
+e-commerce_eds.ipynb/
 
-Power BI dashboard file
+Power BI dashboard file/
 
-README.md
+README.md/
 
 ### 9. How to Run
 
