@@ -78,23 +78,23 @@ Order ID, Order Date, Ship Date, Ship Mode, Customer ID, Segment, Region, Catego
   
 ## 6. Key Insights
 
-Tables sub-category is the largest loss contributor, losing approximately $17.7K.
-Discounts above 20% consistently lead to negative margins.
-Technology has the highest margin (around 17%), while Furniture has only 2.5% margin despite similar revenue.
-Top 20% of customers contribute around 80% of total revenue.
-Q4 sales naturally increase every year, but heavy discounting during peak demand reduces profitability.
-West region leads in both revenue and total profit.
-Some high-revenue customers generate zero or negative profit.
-Discount and profit have a strong negative relationship.
+- Tables sub-category is the largest loss contributor, losing approximately $17.7K.
+- Discounts above 20% consistently lead to negative margins.
+- Technology has the highest margin (around 17%), while Furniture has only 2.5% margin despite similar revenue.
+- Top 20% of customers contribute around 80% of total revenue.
+- Q4 sales naturally increase every year, but heavy discounting during peak demand reduces profitability.
+- West region leads in both revenue and total profit.
+- Some high-revenue customers generate zero or negative profit.
+- Discount and profit have a strong negative relationship.
 
 ## 7. Business Recommendations
 
-Cap discounts at 20% and require approval for higher discounts.
-Reprice or restructure the Tables sub-category.
-Focus on growing the Technology product mix.
-Audit high-revenue but low-profit customers.
-Reduce unnecessary discounting during peak Q4 demand.
-Monitor late deliveries and proactively manage customer experience.
+- Cap discounts at 20% and require approval for higher discounts.
+- Reprice or restructure the Tables sub-category.
+- Focus on growing the Technology product mix.
+- Audit high-revenue but low-profit customers.
+- Reduce unnecessary discounting during peak Q4 demand.
+- Monitor late deliveries and proactively manage customer experience.
 
 ### 8. Project Structure
 
