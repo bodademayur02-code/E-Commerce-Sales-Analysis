@@ -104,7 +104,7 @@ ecomm-analysis/
 
 [Open Notebook](e-commerce_eds.ipynb)
 
-[Open Dashboard](e-commerce analysis dashboard.pbix)
+[Dashboard Screenshot](Screenshot.png)
 
 [README.md/](https://github.com/bodademayur02-code/E---Commerce-Sales-Analysis/edit/main/README.md)
 
